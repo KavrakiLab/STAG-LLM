@@ -60,8 +60,8 @@ Pretrained models are provided in the `pretrained_models` directory. Please down
 ├── model.py
 ├── data_handling.py
 ├── utils.py
-├── pdbs_to_graphs.py (conceptual, needs to be implemented/provided)
-└── evaluate.py (conceptual, needs to be implemented/provided)
+├── pdbs_to_graphs.p
+└── evaluate.py
 ├── README.md
 ├── STAG_LLM_image.png (image asset)
 ```
