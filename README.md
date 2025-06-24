@@ -1,4 +1,4 @@
-# STAG-LLM: Structure-Aware Graph-based Language Model for TCR-pMHC Binding Prediction
+# STAG-LLM
 
 This repository contains the code for STAG-LLM, a novel model for predicting TCR-pMHC binding specificity by integrating sequence information from a pre-trained Large Language Model (ESM-2) with structural insights captured by a Graph Neural Network (GNN).
 
