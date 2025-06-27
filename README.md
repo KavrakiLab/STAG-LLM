@@ -35,7 +35,7 @@ Training progress and evaluation metrics will be logged in the `test` directory 
 
 Pretrained models are provided in the `pretrained_models` directory. Please download it from [pretrained_models](https://rice.box.com/s/k2f0waqrj66a35lobhfcctz1fy3ges05) and place it in the root directory of this project. You can use these models to score individual input PDB files or evaluate on a test set.
 
-1. Place your input PDB files in a designated directory. (PDB files must contian D,E chians for the TCR and A,C chains for the pMHC. We recomend modeling structures with [TCRmodel2](https://tcrmodel.ibbr.umd.edu)
+1. Place your input PDB files in a designated directory. (PDB files must contian D,E chians for the TCR and A,C chains for the pMHC. We recomend modeling structures with [TCRmodel2](https://tcrmodel.ibbr.umd.edu))
 
 2. Run the `evaluate.py` script:
 
